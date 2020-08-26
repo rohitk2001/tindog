@@ -1,1 +1,2 @@
-# tindog.github.io
+# tindog
+A dog shopping website.
